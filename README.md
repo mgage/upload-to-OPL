@@ -23,7 +23,7 @@ Notes
 This library was previously called the National Problem Library.
 
 
-# This repository
+# This repository contains
 
 * WeBWorK problems from U of R to be uploaded to the OPL
 
