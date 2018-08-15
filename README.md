@@ -1,7 +1,7 @@
 webwork-open-problem-library
 =============================
 
-This is the WeBWorK Open Problem Library.  Here you
+These problems are destined for the WeBWorK Open Problem Library where you
 will find all WeBWorK problems contributed by the OpenWeBWorK
 community.
 
